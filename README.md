@@ -20,7 +20,7 @@ J'ai importé deux fichiers : l'EDA et la modélisation. On retrouve dans l'EDA 
 * **Modèle** : `XGBoost Regressor`.
 * **Validation** : Utilisation d'une Cross-Validation (5-fold) pour optimiser les hyperparamètres (max_depth, learning_rate, etc.) et trouver le nombre optimal d'itérations (`early_stopping_rounds`).
 
-## 🔧 Technologies Utilisées
+## Technologies Utilisées
 
 * Python
 * Pandas & Numpy
