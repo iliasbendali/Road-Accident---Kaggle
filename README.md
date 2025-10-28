@@ -1,5 +1,5 @@
 # Road-Accident---Kaggle
-Prédiction du Risque d'Accident de la Route - Challenge Kaggle d'octobre 2025
+Prédiction du Risque d'Accident de la Route - Challenge Kaggle d'octobre 2025 (305ème sur 3 684)
 
 ## Objectif
 
